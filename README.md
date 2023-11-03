@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pabasara</h1>
 <h3 align="center">I'm an undergraduate at University of Uwa Wellassa in Sri Lanka (Reading for Bachelor of Science Computer Science Honours)</h3>
 
-<img src="https://i.gifer.com/JXA0.gif" align="right" width="400px">
+<img src="https://i.gifer.com/JXA0.gif" align="right" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmpabasara&label=Profile%20views&color=0e75b6&style=flat" alt="dmpabasara" /> </p>
 
