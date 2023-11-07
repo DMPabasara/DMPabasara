@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pabasara</h1>
-<h3 align="center">I'm an undergraduate at University of Uwa Wellassa in Sri Lanka (Reading for Bachelor of Science (BSc) in
+<h3 align="center">I'm an undergraduate at University of Uva Wellassa in Sri Lanka (Reading for Bachelor of Science (BSc) in
 Computer Science and Technology)</h3>
 
 
